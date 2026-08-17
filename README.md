@@ -16,6 +16,7 @@ Atualmente estou desenvolvendo o projeto **GL Secure Manager**, um sistema de ge
 ## 🛠️ Tecnologias e ferramentas
 
 ### 💻 Desenvolvimento
+
 - 🐍 Python
 - 🗄️ SQL
 - 🗃️ SQLite
@@ -25,9 +26,20 @@ Atualmente estou desenvolvendo o projeto **GL Secure Manager**, um sistema de ge
 - ⚡ JavaScript
 
 ### 🔧 Ferramentas
+
 - 🌱 Git
 - 🐙 GitHub
 - 💙 Visual Studio Code
+
+### 🧪 Práticas e conhecimentos
+
+- Programação Orientada a Objetos (POO)
+- CRUD
+- Testes de software
+- Autenticação e controle de acesso
+- Estruturação de projetos
+- Arquitetura organizada em camadas
+- Banco de dados relacionais
 
 ## 📌 Projeto em destaque
 
